@@ -1,0 +1,10 @@
+{
+    "name" : "EmargeXtensIon",
+    "version" : "1.0.0",
+    "manifest_version": 3,
+    "author" : "Z3nR1S",
+    "action" : {
+        "default_popup" : "index.html",
+        "default_title" : "Emargix"
+    }
+}
